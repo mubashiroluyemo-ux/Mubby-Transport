@@ -1,0 +1,320 @@
+.fifteen{
+    background-color: #0a1f44;
+     color: #ffffff; 
+     height: 20px;
+     padding: 10px 15px;
+}
+.one{
+    display: flex;
+    margin-top: 20px;
+    margin-left: 50px;
+    font-family: "Lato", sans-serif;
+
+}
+.two{
+    display: flex;
+    margin-left: 50PX;
+    font-size: 13px;
+    font-weight: 600;
+    margin-top: 6px;
+}
+.three{
+ margin-left: 5px;
+ font-size: 18px;
+ color: #0a1f44;
+ font-weight: bold;
+}
+.four{
+    margin-left: 90px;
+     background-color: #0000ff; 
+     padding: 5px 10px; 
+     color: #ffffff;
+     border-radius: 5px;
+}
+.eighthundredtwenty{
+     font-family: "Montserrat", sans-serif;
+   font-optical-sizing: auto;
+  width: 1255px;
+  background-color: #0a1f44;
+  border-radius: 5px;
+}
+.eighttwo{
+ color: #ffffff;
+    top: 20px;
+    margin-left: 20px;
+    display: flex;
+}
+.eighttwoone{
+    margin-top: 100px;
+    
+}
+.eighttwotwo{
+    font-size: 14px;
+    font-weight: 500;
+}
+.eighttwothree{
+     font-size: 35px;
+    font-weight: 600;
+    margin-top: -1px;
+}
+.eighttwofour{
+    margin-top: -2px;
+    
+}
+.eighttwofive{
+    margin-top: -2px;
+    
+}
+.eighttwosix{
+    margin-top: -2px;
+    
+}
+.eighttwoseven{
+    margin-left: 130px;
+    border-radius: 5px;
+}
+.eighttwoeight{
+  display: flex;
+ background-color: #dcdcdc;
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  margin-top: -80px;
+  border-radius: 10px;
+  padding: 5px 10px;
+  color: #0a1f44;
+  position: relative;
+  margin-left: 20px;  
+}
+.eighttwonine{
+     margin-left: 13px;
+ margin-top: 13px;
+}
+.eighttwoten{
+    font-weight: 600;
+    
+}
+.eighthundredthirty{
+ margin-top: -10px;
+    font-weight: 600;
+}
+.eightthreeone{
+margin-left: 13px;
+ margin-top: 13px;
+}
+.eightthreetwo{
+    font-weight: 600;
+
+}
+.eightthreethree{
+margin-top: -10px;
+    font-weight: 600;
+}
+.eightthreefour{
+margin-left: 13px;
+ margin-top: 13px;
+}
+.eightthreefive{
+    font-weight: 600;
+
+}
+.eightthreesix{
+margin-top: -10px;
+    font-weight: 600;
+}
+.eightthreeseven{
+margin-left: 13px;
+ margin-top: 13px;
+}
+.eightthreeeight{
+    font-weight: 600;
+
+}
+.eightthreenine{
+margin-top: -10px;
+    font-weight: 600;
+}
+.eightthreeten{
+margin-left: 13px;
+ margin-top: 13px;
+}
+.eightfourty{
+    font-weight: 600;
+
+}
+.eightfourone{
+margin-top: -10px;
+    font-weight: 600;
+}
+.eightfourtwo{
+ text-align: center;
+font-size: 18px;
+font-weight: 600;
+font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+}
+.eightfourthree{
+ display: flex;
+font-family: "Montserrat", sans-serif;
+font-optical-sizing: auto;
+margin-top: 20px;
+margin-left: 40px;
+}
+.eightfourfour{
+  border: 1px solid #ccc;
+     padding: 5px 10px;
+    border-radius: 5px;
+}
+.eightfourfive{
+  margin-top: 10px;
+    margin-left: 5px;
+}
+.eightfoursix{
+font-weight: 600;
+    margin-left: 10px;
+}
+.eightfourseven{
+ font-size: 14px;
+margin-left: 10px;
+}
+.eightfoureight{
+ font-size: 14px;
+margin-left: 10px;
+margin-top: -6px;
+}
+.eightfournine{
+ display: flex;
+margin-left: 10px;
+margin-top: 36px;
+}
+.eightfourten{
+
+}
+.eightfifty{
+font-size: 12px;
+    margin-top: -1px;
+}
+.eightfiveone{
+    margin-left: 20px;
+}
+.eightfivetwo{
+font-size: 12px;
+    margin-top: -1px;
+}
+.eightfivethree{
+    margin-left: 20px;
+    
+}
+.eightfivefour{
+    font-size: 12px;
+    margin-top: -1px;
+}
+.eightfivefive{
+    border: 1px solid #ccc;
+     padding: 5px 10px;
+    border-radius: 5px;
+    margin-left: 20px;
+}
+.eightfivesix{
+     margin-top: 10px;
+    margin-left: 5px;
+}
+.eightfiveseven{
+    font-weight: 600;
+    margin-left: 10px;
+}
+.eightfiveeight{
+     font-size: 14px;
+margin-left: 10px;
+}
+.eightfivenine{
+    font-size: 14px;
+margin-left: 10px;
+margin-top: -6px;
+}
+.eightfiveten{
+     border: 1px solid #ccc;
+     padding: 5px 10px;
+    border-radius: 5px;
+    margin-left: 20px;
+}
+.eightsixty{
+margin-top: 10px;
+    margin-left: 5px;
+}
+.eightsixone{
+ font-weight: 600;
+    margin-left: 10px;
+}
+.eightsixtwo{
+  font-size: 14px;
+margin-left: 10px;
+}
+.eightsixthree{
+     font-size: 14px;
+margin-left: 10px;
+margin-top: -6px;
+}
+.eightsixfour{
+     border: 1px solid #ccc;
+     padding: 5px 10px;
+    border-radius: 5px;
+    margin-left: 20px;
+}
+.eightsixfive{
+    margin-top: 10px;
+    margin-left: 5px;
+}
+.eightsixsix{
+    font-weight: 600;
+    margin-left: 10px;
+}
+.eightsixseven{
+    font-size: 14px;
+margin-left: 10px;
+}
+.eightsixeight{
+         font-size: 14px;
+margin-left: 10px;
+margin-top: -6px;
+}
+.sevenfiveten{
+    background-color: #0a1f44;
+    color: #ffffff;
+    display: flex;
+     font-family: "Montserrat", sans-serif;
+   font-optical-sizing: auto;
+   margin-top: 10px;
+   border-radius: 5px;
+}
+.sevensixty{
+    margin-left: 50px;
+    display: flex;
+
+}
+.sevensixone{
+margin-left: 20px;
+}
+.sevensixtwo{
+font-weight: 600;
+}
+.sevensixthree{
+    font-size: 14px;
+    margin-top: -5px;
+}
+.sevensixfour{
+    font-size: 14px;
+    margin-top: -5px;
+    
+}
+.sevensixfive{
+    margin-left: 500px;
+    font-weight: 600;
+    margin-top: 30px;
+    border: 1px solid #ccc;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    
+}
+
+

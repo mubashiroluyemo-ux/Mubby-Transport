@@ -1,0 +1,749 @@
+.one{
+    display: flex;
+    margin-top: 20px;
+    margin-left: 50px;
+     font-family: "Montserrat", sans-serif;
+   font-optical-sizing: auto;
+
+}
+.two{
+    display: flex;
+    margin-left: 50PX;
+    font-size: 13px;
+    font-weight: 600;
+    margin-top: 6px;
+}
+.three{
+ margin-left: 5px;
+ font-size: 18px;
+ color: #0a1f44;
+ font-weight: bold;
+}
+.four{
+    margin-left: 90px;
+     background-color: #0000ff; 
+     padding: 5px 10px; 
+     color: #ffffff;
+     border-radius: 5px;
+}
+.twotwothree{
+   background-color: #0a1f44;
+     color: #ffffff; 
+     height: 20px;
+     padding: 10px 15px;
+}
+.onethreetwo{
+    font-family: "Montserrat", sans-serif;
+   font-optical-sizing: auto;
+  width: 1256px;
+  background-color: #0a1f44;
+  border-radius: 5px;
+}
+.onethreethree{
+     color: #ffffff;
+    top: 20px;
+    margin-left: 30px;
+    display: flex;
+}
+.onethreefour{
+     margin-top: 70px;
+    
+}
+.onethreefive{
+     font-size: 14px;
+    font-weight: 600;
+     color: #0000ff;
+}
+.onethreesix{
+    font-size: 35px;
+font-weight: 600;
+margin-top: -1px;
+}
+.onethreeseven{
+     font-size: 35px;
+font-weight: 600;
+color: #0000ff;
+margin-top: -22px;
+}
+.onethreeeight{
+     font-weight: 600;
+     font-size: 14px;
+     margin-top: -7px;
+}
+.onethreenine{
+     font-weight: 600;
+     font-size: 14px;
+}
+.onethreeten{
+     display: flex;
+    margin-top: 30px;
+}
+.onefourty{
+    display: flex;
+
+}
+.onefour{
+ margin-left: 10px;
+}
+.onefourone{
+font-weight: 600;
+font-size: 18px;
+}
+.onefourtwo{
+margin-top: -12px;
+font-weight: 600;
+}
+.onefourthree{
+     display: flex;
+    margin-left: 20px;
+}
+.onefourfour{
+ margin-left: 10px;
+    
+}
+.onefourfive{
+font-weight: 600;
+font-size: 18px;
+}
+.onefoursix{
+margin-top: -12px;
+font-weight: 600;
+}
+.onefourseven{
+    display: flex;
+    margin-left: 20px;
+}
+.onefoureight{
+ margin-left: 10px;
+    
+}
+.onefournine{
+    font-weight: 600;
+font-size: 18px;
+}
+.onefourten{
+    margin-top: -12px;
+font-weight: 600;
+
+}
+.onefifty{
+ display: flex;
+    margin-left: 20px;
+}
+.onefive{
+ margin-left: 10px;
+
+}
+.onefiveone{
+     font-weight: 600;
+font-size: 18px;
+}
+.onefivetwo{
+      margin-top: -12px;
+font-weight: 600;
+}
+.onefivethree{
+     margin-left: 60px;
+    border-radius: 5px;
+}
+.onefivefour{
+     font-family: "Montserrat", sans-serif;
+   font-optical-sizing: auto;
+   border: 1px solid #ccc;
+   background-color: #0a1f44;
+   margin-top: 30px;
+   width: 50%;
+   margin-left: 330px;
+   color: #ffffff;
+   padding: 5px;
+   border-radius: 5px;
+}
+.onefivefive{
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+}
+.onefivesix{
+    width: 50%;
+    padding: 15px;
+    border-radius: 5px;
+    text-align: center;
+    margin-left: 130px;
+}
+.onefiveseven{
+    margin-top: 20px;
+     width: 56%;
+    padding: 15px;
+    border-radius: 5px;
+    margin-left: 130px;
+
+}
+.onefiveeight{
+    margin-left: 10px;
+}
+.onefivenine{
+    margin-left:170px;
+    font-weight: 500;
+}
+.onefiveten{
+    font-family: "Montserrat", sans-serif;
+   font-optical-sizing: auto;
+   margin-top: 30px;
+   margin-left: 30px;
+   border: 1px solid #ccc;
+   padding: 5px;
+   border-radius: 5px;
+}
+.onesixty{
+   display: flex;
+   border-bottom: 1px solid #ccc;
+   
+
+}
+.onesix{
+
+}
+.onesixone{
+    font-weight: 600;
+}
+.onesixtwo{
+    font-size: 14px;
+    margin-top: -3px;
+}
+.onesixthree{
+    margin-left: 50px;
+}
+.onesixfour{
+    font-weight: 600;
+    color: #000000;
+    border: 1px solid #ccc;
+    padding: 3px;
+    border-radius: 3px;
+    background-color: #00ff00;
+}
+.onesixfive{
+    margin-left: 400px;
+}
+.onesixsix{
+    border: 1px solid #ccc;
+    padding: 3px;
+    border-radius: 3px;
+    
+}
+.onesixseven{
+    margin-left: 50px;
+}
+.onesixeight{
+       border: 1px solid #ccc;
+    padding: 3px;
+    border-radius: 3px; 
+}
+.onesixnine{
+    font-family: "Montserrat", sans-serif;
+   font-optical-sizing: auto;
+}
+.onesixten{
+    
+}
+.oneseventy{
+
+}
+.oneseven{
+
+}
+.onesevenone{
+    border-bottom: 1px solid #ccc;
+    width: 40%;
+}
+.oneseventwo{
+    font-family: "Montserrat", sans-serif;
+   font-optical-sizing: auto;
+   font-weight: 600;
+}
+.oneseventhree{
+    display: flex;
+}
+.onesevenfour{
+    display: flex;
+border-bottom: 1px solid #ccc;
+    width: 40%;
+    
+}
+.onesevenfive{
+    margin-left: 10px;
+}
+.onesevensix{
+    font-weight: 600;
+}
+.onesevenseven{
+   font-size: 15px; 
+   margin-top: -5px;
+   font-weight: 500;
+
+}
+.oneseveneight{
+   font-size: 15px; 
+   margin-top: -5px;
+   font-weight: 500;
+
+    
+}
+.onesevennine{
+   font-size: 15px; 
+   margin-top: -5px;
+   font-weight: 500;
+
+
+    
+}
+.oneseventen{
+    margin-left: 500px;
+    margin-top: -615px;
+}
+.fish{
+    border: 1px solid #ccc;
+}
+.oneeighty{
+ font-family: "Montserrat", sans-serif;
+   font-optical-sizing: auto;
+   margin-top: 30px;
+   margin-left: 30px;
+   border: 1px solid #ccc;
+   width: fit-content;
+   padding: 5px;
+   border-radius: 5px;
+}
+.oneeight{
+margin-left: 10px;
+}
+.oneeightone{
+ font-weight: 600; 
+   
+}
+.oneeighttwo{
+    display: flex;
+    border-bottom: 1px solid #ccc;
+    border-top: 1px solid #ccc;
+}
+.oneeightthree{
+    margin-left: 10px;
+}
+.oneeightfour{
+    font-weight: 600;
+}
+.oneeightfive{
+  font-size: 14px;
+  color: #777;  
+  margin-top: -7px;
+}
+.oneeightsix{
+     display: flex;
+    border-bottom: 1px solid #ccc;
+}
+
+.oneeightseven{
+    margin-left: 10px;
+    
+}
+.oneeighteight{
+    font-weight: 600;
+    
+}
+.oneeightnine{
+   font-size: 14px;
+  color: #777;  
+  margin-top: -7px; 
+}
+.oneeightten{
+   display: flex;
+    border-bottom: 1px solid #ccc;  
+    color: #0000ff;
+}
+.oneninety{
+    margin-left: 10px;
+
+}
+.onenine{
+    font-weight: 600;
+
+}
+.onenineone{
+ font-size: 14px;
+  color: #0000ff;  
+  margin-top: -7px; 
+}
+.oneninetwo{
+  display: flex;
+    border-bottom: 1px solid #ccc;  
+}
+.oneninethree{
+    margin-left: 10px;
+
+}
+.oneninefour{
+    font-weight: 600;
+
+}
+.oneninefive{
+font-size: 14px;
+  color: #777;  
+  margin-top: -7px; 
+}
+.hunter{
+    
+}
+.oneninesix{
+font-family: "Montserrat", sans-serif;
+   font-optical-sizing: auto;
+
+}
+.onenineseven{
+   display: flex;
+   margin-top: -300px;
+   margin-left: 470px;
+   border: 1px solid #ccc;
+   width: 60%;
+   border-radius: 5px;
+   background-color: #0a1f44;
+   color: #ffffff;
+   padding: 10px;
+
+}
+.onenineeight{
+margin-left: 20px;
+}
+.oneninenine{
+font-weight: 600;
+font-size: 18px;
+}
+.onenineten{
+
+}
+.twohundred{
+
+margin-top: -5px;
+
+}
+.twohundredone{
+background-color: #0000ff;
+border: 1px solid #ccc;
+width: fit-content;
+padding: 5px;
+border-radius: 3px;
+}
+.twohundredtwo{
+    margin-left: 220px;
+    margin-top: 30px;
+}
+.onethousand{
+   font-family: "Montserrat", sans-serif;
+   font-optical-sizing: auto;
+   border: 1px solid #ccc;
+   width: 100%;
+   margin-top: 130px;
+   border-radius: 10px;
+   background-color: #fafafa;
+   padding: 3px;
+   display: flex;
+}
+.onethousandone{
+   display: flex;
+   border-right: 1px solid#ccc;
+   padding: 5px;
+    
+}
+.onethousandtwo{
+    margin-left: 10px;
+}
+.onethousandthree{
+    font-weight: 600;
+}
+.onethousandfour{
+    font-size: 14px;
+    font-weight: 500;
+    margin-top: -5px;
+}
+.onethousandfive{
+      font-size: 14px;
+    font-weight: 500;
+    margin-top: -5px;
+
+}
+.onethousandsix{
+    margin-left: 30px;
+}
+.onethousandseven{
+     display: flex;
+   border-right: 1px solid#ccc;
+   padding: 5px;
+}
+.onethousandeight{
+    margin-left: 10px;
+    
+}
+.onethousandnine{
+    font-weight: 600;
+    
+}
+.onethousandten{
+       font-size: 14px;
+    font-weight: 500;
+    margin-top: -5px;
+}
+.onethousandeleven{
+      font-size: 14px;
+    font-weight: 500;
+    margin-top: -5px;
+
+}
+.onethousandtwelve{
+display: flex;
+   border-right: 1px solid#ccc;
+   padding: 5px;
+}
+.onethousandthirteen{
+    margin-left: 10px;
+    
+}
+.onethousandfourteen{
+    font-weight: 600;
+    
+}
+.onethousandfifteen{
+    font-weight: 600;
+    
+}
+.onethousandsixteen{
+    font-size: 14px;
+    font-weight: 500;
+    margin-top: -5px;
+}
+.onethousandseventeen{
+     font-size: 14px;
+    font-weight: 500;
+    margin-top: -5px;
+}
+.onethousandeighteen{
+    margin-left: 10px;
+    
+}
+.onethousandnineteen{
+    font-weight: 600;
+    
+}
+.onethousandtwenty{
+     font-size: 14px;
+    font-weight: 500;
+    margin-top: -5px;
+}
+.onetwoone{
+ font-size: 14px;
+    font-weight: 500;
+    margin-top: -5px;
+}
+.onetwotwo{
+display: flex;
+   border-right: 1px solid#ccc;
+   padding: 5px;
+}
+.onetwothree{
+display: flex;
+   border-right: 1px solid#ccc;
+   padding: 5px;
+    
+}
+.onetwofour{
+    margin-left: 10px;
+   
+}
+.onetwofive{
+    font-weight: 600;
+   
+}
+.onetwosix{
+     font-size: 14px;
+    font-weight: 500;
+    margin-top: -5px;
+}
+.onetwoseven{
+     font-size: 14px;
+    font-weight: 500;
+    margin-top: -5px;
+}
+.onetwoeight{
+    display: flex;
+   padding: 5px;
+}
+.onetwonine{
+    margin-left: 10px;
+    
+}
+.onetwoten{
+    font-weight: 600;
+    
+}
+.onethirty{
+ font-size: 14px;
+    font-weight: 500;
+    margin-top: -5px;
+}
+.onethreeone{
+ font-size: 14px;
+    font-weight: 500;
+    margin-top: -5px;
+}
+.twohundredthree{
+   margin-top: 20px;
+display: flex;
+ font-family: "Montserrat", sans-serif;
+ background-color: #0000ff;
+ padding: 10px 10px;
+ color: #ffffff;
+ border-radius: 5px; 
+}
+.twohundredfour{
+    margin-left: 10px;
+margin-top: -10px;
+}
+.twohundredfive{
+ font-weight: 600;
+    
+}
+.twohundredsix{
+margin-top: -10px;
+    
+}
+.twohundredseven{
+    margin-left: 80px;
+ height: 25px;
+ width: 300px;
+ margin-top: 20px;
+}
+.twohundredeight{
+    margin-top: 10px;
+    
+}
+.twohundrednine{
+     margin-left: 50px;
+    border: 1px solid #ccc;
+    padding: 5px 25px;
+    width: 200px;
+    height: 25px;
+}
+.kettle{
+ display: flex;
+    background-color: #0a1f44;
+    color: #ffffff;
+ font-family: "Montserrat", sans-serif;
+ margin-top: 10px;
+}
+.broom{
+ margin-left: 95px;
+    margin-top: 20px;
+}
+.shop{
+ font-weight: 600;
+    font-size: 18px;
+}
+.fan{
+  font-size: 16px;
+    font-weight: 600;
+}
+.sense{
+    font-size: 16px;
+    font-weight: 600;
+    margin-top: -5px;
+}
+.twohundredten{
+font-size: 16px;
+    font-weight: 600;
+    margin-top: -5px;
+}
+.twohundredeleven{
+    margin-top: 20px;
+    margin-left: 80px;
+}
+.twohundredtwelve{
+     margin-top: 20px;
+    margin-left: 80px;
+}
+.twohundredthirteen{
+     margin-top: 20px;
+    margin-left: 80px;
+}
+.food{
+    margin-bottom: 20px;
+}
+.twohundredfourteen{
+    display: flex;
+}
+.twohundredfifteen{
+    margin-left: 5px;
+    margin-top: -0.5px;
+}
+.twohundredseventeen{
+    display: flex;
+    margin-top: 10px;
+
+}
+.twohundredeighteen{
+     margin-left: 5px;
+    margin-top: -1px;
+}
+.twohundrednineteen{
+     display: flex;
+    margin-top: 10px;
+
+}
+.twotwenty{
+margin-left: 7px;
+    margin-top: -1px;
+}
+.twotwoone{
+ display: flex;
+    margin-top: 10px;
+
+}
+.twotwotwo{
+margin-left: 7px;
+    margin-top: -1px;
+}
+
+
+
+
+
+.twohundredten{
+    
+}
+.twohundredeleven{
+    
+}
+.twohundredtwelve{
+    
+}
+.twohundredthirteen{
+    
+}
+.twohundredfourteen{
+    
+}
+.twohundredfifteen{
+    
+}
+.twohundredsixteen{
+    
+}
+.twohundredseventeen{
+    
+}
+.twohundredeighteen{
+    
+}
+.twohundrednineteen{
+    
+}
+.twohundredtwenty{
+    
+}
+

@@ -1,0 +1,662 @@
+.fifteen{
+    background-color: #0a1f44;
+     color: #ffffff; 
+     height: 20px;
+     padding: 10px 15px;
+}
+.one{
+    display: flex;
+    margin-top: 20px;
+    margin-left: 50px;
+    font-family: "Lato", sans-serif;
+
+}
+.two{
+    display: flex;
+    margin-left: 50PX;
+    font-size: 13px;
+    font-weight: 600;
+    margin-top: 6px;
+}
+.three{
+ margin-left: 5px;
+ font-size: 18px;
+ color: #0a1f44;
+ font-weight: bold;
+}
+.four{
+    margin-left: 90px;
+     background-color: #0000ff; 
+     padding: 5px 10px; 
+     color: #ffffff;
+     border-radius: 5px;
+}
+.fourthreethree{
+      font-family: "Montserrat", sans-serif;
+   font-optical-sizing: auto;
+  width: 1256px;
+  background-color: #0a1f44;
+  border-radius: 5px;
+}
+.fourthreefour{
+        color: #ffffff;
+    top: 20px;
+    margin-left: 30px;
+    display: flex;
+}
+
+.fourthreefive{
+     margin-top: 70px;
+    
+}
+.fourthreesix{
+     font-size: 14px;
+    font-weight: 600;
+     color: #0000ff;
+}
+.fourthreeseven{
+     font-size: 35px;
+font-weight: 600;
+margin-top: -1px;
+}
+.fourthreeeight{
+     font-size: 35px;
+font-weight: 600;
+color: #0000ff;
+margin-top: -22px;
+}
+.fourthreenine{
+     font-weight: 600;
+     font-size: 14px;
+     margin-top: -11px;
+}
+.fourthreeten{
+     font-weight: 600;
+     font-size: 14px;
+}
+.fourfourty{
+    font-weight: 600;
+     font-size: 14px; 
+}
+.onethreeten{
+     display: flex;
+    margin-top: 30px;
+}
+.onefourty{
+    display: flex;
+
+}
+.onefour{
+ margin-left: 10px;
+}
+.onefourone{
+font-weight: 600;
+font-size: 18px;
+}
+.onefourtwo{
+margin-top: -12px;
+font-weight: 600;
+}
+.onefourthree{
+     display: flex;
+    margin-left: 20px;
+}
+.onefourfour{
+ margin-left: 10px;
+    
+}
+.onefourfive{
+font-weight: 600;
+font-size: 18px;
+}
+.onefoursix{
+margin-top: -12px;
+font-weight: 600;
+}
+.onefourseven{
+    display: flex;
+    margin-left: 20px;
+}
+.onefoureight{
+ margin-left: 10px;
+    
+}
+.onefournine{
+    font-weight: 600;
+font-size: 18px;
+}
+.onefourten{
+    margin-top: -12px;
+font-weight: 600;
+
+}
+.onefifty{
+ display: flex;
+    margin-left: 20px;
+}
+.onefive{
+ margin-left: 10px;
+
+}
+.onefiveone{
+     font-weight: 600;
+font-size: 18px;
+}
+.onefivetwo{
+      margin-top: -12px;
+font-weight: 600;
+}
+.fourfour{
+     margin-left: 55px;
+    border-radius: 5px;
+}
+.seventeen{
+    padding: 10px 15px;
+    margin-top: 30px;
+    position: relative;
+background-color: #f0f7ff;
+    height: 100vh;
+    width: fit-content;
+    border-radius: 5px;
+    border-color: #0000ff;
+    background-color: #eaf4ff;
+    font-family: "Montserrat", sans-serif;
+   font-optical-sizing: auto;
+   border: 1px solid #ccc;
+}
+.possible{
+    margin-left: -30px;
+}
+.sixteen{
+    font-size: 20px;
+    font-weight: 600;
+    margin-left: 385px;
+}
+.fill{
+    margin-left: 338px;
+    margin-top: -20px;
+}
+.offa{
+   margin-left: 50px;
+ font-weight: 600;  
+}
+.ilorin{
+   margin-top: 20px;
+    margin-left: 486px;
+    width: 270px; 
+}
+.pan{
+ margin-left: 50px;
+ font-weight: 600;  
+}
+.fog{
+ margin-top: 20px;
+    margin-left: 415px;
+    width: 270px; 
+}
+.eighteen{
+ margin-left: 50px;
+ font-weight: 600;
+}
+.nineteen{
+    margin-top: 20px;
+    margin-left: 488px;
+    width: 270px;
+}
+.twenty{
+    margin-left: 50px;
+ font-weight: 600;
+ 
+
+}
+.forgot{
+    margin-top: 20px;
+    margin-left: 511px;
+    width: 270px;
+
+}
+.twoone{
+   margin-left: 50px;
+ font-weight: 600;
+
+}
+.twotwo{
+    margin-top: 20px;
+    margin-left: 415px;
+    width: 275px;
+
+}
+.return{
+ margin-left: 50px;
+ font-weight: 600;
+}
+.pack{
+    margin-top: 20px;
+    margin-left: 440px;
+    width: 275px;
+}
+.lamb{
+margin-left: 50px;
+ font-weight: 600;
+}
+.dog{
+ margin-top: 20px;
+    margin-left: 69px;
+     width: 280px;
+    padding: 3px;
+}
+.twothree{
+    margin-left: 50px;
+    font-weight: 600;
+
+}
+.twofour{
+    margin-top: 20px;
+    width: 280px;
+    padding: 3px;
+    margin-left: 202px;
+}
+.desk{
+ margin-left: 50px;
+    font-weight: 600;
+}
+.stop{
+ margin-top: 20px;
+    width: 280px;
+    padding: 3px;
+    margin-left: 30px;
+}
+.twofive{
+  margin-left: 52px;
+    font-weight: 600;
+
+}
+.twosix{
+    margin-top: 20px;
+    width: 280px;
+    padding: 3px;
+    margin-left: 122px;
+
+}
+.twoseven{
+    margin-top: 30px;
+    margin-left: 395px;
+    width: 150px;
+    padding: 5px 10px;
+    background-color: #0000ff;
+    color: #ffffff;
+}
+.fourfourone{
+     font-family: "Montserrat", sans-serif;
+   font-optical-sizing: auto;
+   border: 1px solid #ccc;
+     width: fit-content;
+    border-radius: 5px;
+    height: 103.2vh;
+    width: 375px;
+    margin-top: -606px;
+    margin-left: 880px;
+}
+.fourfourtwo{
+    margin-left: 10px;
+    margin-top: 98px;
+}
+.fourfourthree{
+    font-weight: 600;
+    margin-left: 10px;
+    font-size: 18px;
+}
+.fourfourfour{
+    display: flex;
+}
+.fourfourfive{
+    display: flex;
+}
+.fourfoursix{
+    margin-left: 10px;
+}
+.fourfourseven{
+    font-weight: 600;
+}
+.fourfoureight{
+    margin-top: -6px;
+    font-size: 15px;
+}
+.fourfournine{
+    display: flex;
+    
+}
+.fourfourten{
+    margin-left: 10px;
+    
+}
+.fourfifty{
+    font-weight: 600;
+
+}
+.fourfive{
+ margin-top: -6px;
+    font-size: 15px;
+}
+.fourfiveone{
+    display: flex;
+
+}
+.fourfivetwo{
+    margin-left: 10px;
+    
+}
+.fourfivethree{
+    font-weight: 600;
+
+}
+.fourfivefour{
+    margin-top: -6px;
+    font-size: 15px;
+}
+.fourfivefive{
+    display: flex;
+    
+}
+.fourfivesix{
+    margin-left: 10px;
+    
+}
+.fourfiveseven{
+    font-weight: 600;
+    
+}
+.fourfiveeight{
+    margin-top: -6px;
+    font-size: 15px;
+}
+.fourfivenine{
+    display: flex;
+    
+    
+}
+.fourfiveten{
+    margin-left: 10px;
+    
+}
+.foursixty{
+    font-weight: 600;
+
+}
+.foursix{
+margin-top: -6px;
+ font-size: 15px;
+}
+.foursixone{
+margin-left: 200px;
+margin-top: -200px;
+}
+.ninefiveeight{
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+   font-optical-sizing: auto;
+   
+}
+.ninefivenine{
+   font-weight: 600;
+    font-size: 18px;
+}
+.ninefiveten{
+    font-weight: 500;
+    margin-top: -5px;
+}
+.ninesixty{
+ display: flex;
+    font-family: "Montserrat", sans-serif;
+   font-optical-sizing: auto;
+   margin-top: 20px;
+   margin-left: 20px;
+}
+.ninesixone{
+ border: 1px solid #ccc;
+     padding: 10px 15px;
+    border-radius: 5px;
+}
+.ninesixtwo{
+ margin-top: 10px;
+margin-left: 5px;
+margin-bottom: 1px;
+}
+.ninesixthree{
+   font-weight: 600; 
+   margin-left: 5px;
+}
+.ninesixfour{
+    display: flex;
+    margin-top: -26px;
+   margin-left: 5px;
+
+}
+.ninesixfive{
+    display: flex;
+    
+}
+.ninesixsix{
+    margin-top: 23px;
+    margin-left: 3px;
+}
+.ninesixseven{
+    display: flex;
+    margin-left: 15px;
+}
+.ninesixeight{
+     margin-top: 23px;
+    margin-left: 3px;
+}
+.ninesixnine{
+   margin-left: 5px;
+   margin-top: -1px;
+   font-weight: 600;
+}
+.ninesixten{
+border: 1px solid #ccc;
+width: fit-content;
+padding: 5px;
+margin-left: 5px;
+margin-top: -2px;
+}
+.nineseventy{
+border: 1px solid #ccc;
+padding: 10px 15px;
+border-radius: 5px;
+margin-left: 10px;
+}
+.ninesevenone{
+ margin-top: 10px;
+margin-left: 5px;
+margin-bottom: 1px;
+}
+.nineseventwo{
+ font-weight: 600; 
+ margin-left: 5px;
+}
+.nineseventhree{
+    border: 1px solid #ccc;
+padding: 10px 15px;
+border-radius: 5px;
+margin-left: 10px;
+}
+.ninesevenfour{
+    margin-top: 10px;
+margin-left: 5px;
+margin-bottom: 1px;
+}
+.ninesevenfive{
+    font-weight: 600; 
+ margin-left: 5px;
+}
+.ninesevensix{
+        border: 1px solid #ccc;
+padding: 10px 15px;
+border-radius: 5px;
+margin-left: 10px;
+}
+.ninesevenseven{
+     margin-top: 10px;
+margin-left: 5px;
+margin-bottom: 1px;
+}
+.nineseveneight{
+     font-weight: 600; 
+ margin-left: 5px;
+}
+.ninesevennine{
+     border: 1px solid #ccc;
+padding: 10px 15px;
+border-radius: 5px;
+margin-left: 10px;
+}
+.nineeighty{
+font-weight: 600; 
+ margin-left: 5px;
+     margin-top: 28px;
+
+}
+.man{
+    margin-left: 1100px;
+}
+.threefivesix{
+    background-image:url(file_00000000f5e0820aa25cb8f91af5e2ad.png) ;
+     background-size: cover;
+    height: 200PX;
+    background-position: center ;
+     font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  margin-top: 30px;
+  color: #ffffff;
+  border-radius: 10px;
+}
+.threefiveseven{
+    display: flex;
+    margin-left: 700px;
+    margin-top: -79px;
+
+}
+.threefiveeight{
+    font-size: 25px;
+    font-weight: 600;
+}
+.threefivenine{
+    margin-top: 30px;
+    position: absolute;
+    margin-left: 80px;
+}
+.threesix{
+ font-size: 18px;
+    font-weight: 600;
+    margin-top: -8px;
+}
+.threesixone{
+ font-size: 18px;
+    font-weight: 600;
+    margin-top: -10px;
+}
+.threesixtwo{
+margin-left: 20px;
+border: 1px solid #ffffff;
+font-weight: 600;
+padding: 10px;
+border-radius: 5px;
+background-color: #000000;
+}
+.threesixthree{
+    background-color: #0000ff;
+font-weight: 600;
+padding: 10px;
+border-radius: 5px;
+}
+.twohundredfive{
+    display: flex;
+    background-color: #0a1f44;
+    color: #ffffff;
+ font-family: "Montserrat", sans-serif;
+ margin-top: 10px;
+ width: 1256px;
+ border-radius: 5px;
+
+}
+.twohundredsix{
+    margin-left: 95px;
+    margin-top: 20px;
+}
+.twohundredseven{
+    font-weight: 600;
+    font-size: 18px;
+}
+.twohundredeight{
+    font-size: 16px;
+    font-weight: 600;
+}
+.twohundrednine{
+    font-size: 16px;
+    font-weight: 600;
+    margin-top: -5px;
+}
+.twohundredten{
+font-size: 16px;
+    font-weight: 600;
+    margin-top: -5px;
+}
+.twohundredeleven{
+    margin-top: 20px;
+    margin-left: 80px;
+}
+.twohundredtwelve{
+     margin-top: 20px;
+    margin-left: 80px;
+}
+.twohundredthirteen{
+     margin-top: 20px;
+    margin-left: 80px;
+}
+.food{
+    margin-bottom: 20px;
+}
+.twohundredfourteen{
+    display: flex;
+}
+.twohundredfifteen{
+    margin-left: 5px;
+    margin-top: -0.5px;
+}
+.twohundredseventeen{
+    display: flex;
+    margin-top: 10px;
+
+}
+.twohundredeighteen{
+     margin-left: 5px;
+    margin-top: -1px;
+}
+.twohundrednineteen{
+     display: flex;
+    margin-top: 10px;
+
+}
+.twotwenty{
+margin-left: 7px;
+    margin-top: -1px;
+}
+.twotwoone{
+ display: flex;
+    margin-top: 10px;
+
+}
+.twotwotwo{
+margin-left: 7px;
+margin-top: -1px;
+}
+.fourthreethree{
+    
+}
+.foursixtwo{
+
+}
+.foursixthree{
+
+}

@@ -1,0 +1,985 @@
+.one{
+    display: flex;
+    margin-top: 20px;
+    margin-left: 50px;
+     font-family: "Montserrat", sans-serif;
+   font-optical-sizing: auto;
+
+}
+.two{
+    display: flex;
+    margin-left: 50PX;
+    font-size: 13px;
+    font-weight: 600;
+    margin-top: 6px;
+}
+.three{
+ margin-left: 5px;
+ font-size: 18px;
+ color: #0a1f44;
+ font-weight: bold;
+}
+.four{
+    margin-left: 90px;
+     background-color: #0000ff; 
+     padding: 5px 10px; 
+     color: #ffffff;
+     border-radius: 5px;
+}
+.twotwothree{
+   background-color: #0a1f44;
+     color: #ffffff; 
+     height: 20px;
+     padding: 10px 15px;
+}
+.threesixfour{
+    /* background-image:url(561415ce63795893cc124cc6878eaa07c1548ec9842349c132d8ad109212b3b2.png); */
+     background-size: cover;
+    height: 650PX;
+    background-position: center ;
+     font-family: "Montserrat", sans-serif;
+   font-optical-sizing: auto;
+  width: 1255px;
+  background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
+          url(561415ce63795893cc124cc6878eaa07c1548ec9842349c132d8ad109212b3b2.png);
+}
+.threesixfive{
+    color: #f8faff;
+    position: relative;
+    top: 190px;
+    margin-left: 50px;
+}
+.threesixsix{
+    font-weight: 600;
+    font-size: 20px;
+    color: #0000ff;
+    
+}
+.threesixseven{
+  font-size: 35px;  
+  font-weight: 600;
+  margin-top: -10px;
+
+}
+.threesixeight{
+     font-weight: 600;
+     color: #0000ff;
+  font-size: 35px;  
+  margin-top: -35px;
+
+
+
+}
+.threesixnine{
+     font-weight: 600;
+    margin-top: -15px;
+    font-size: 16px;
+
+}
+.threesixten{
+     font-weight: 600;
+    margin-top: -5px;
+    font-size: 16px;
+}
+.threeseventy{
+ font-weight: 600;
+    margin-top: -5px;
+    font-size: 16px;
+
+}
+.threesevenone{
+margin-top: 20px;
+}
+.threeseventwo{
+  font-family: "Montserrat", sans-serif;
+   font-optical-sizing: auto;
+   text-align: center;
+}
+.threeseventhree{
+font-weight: 500;
+}
+.threesevenfour{
+font-weight: 600;
+font-size: 25px;
+margin-top: -10px;
+}
+.threesevenfive{
+margin-top: -20px;
+font-weight: 500;
+
+}
+.threesevensix{
+display: flex;
+border: 1px solid #ccc;
+ width: 520px;
+padding: 5px 10px;
+border-radius: 5px;
+background-color: #f8f8f8f8;
+margin-left: 20px;
+}
+.threesevenseven{
+font-weight: 700;
+}
+.threeseveneight{
+font-size: 14px;
+}
+.threesevennine{
+font-size: 14px;
+margin-top: -5px;
+
+}
+.threeseventen{
+font-size: 14px;
+margin-top: -5px;
+
+
+}
+.threeeighty{
+font-size: 14px;
+margin-top: -5px;
+
+
+}
+.threeeightone{
+font-size: 14px;
+
+}
+.threeeighttwo{
+display: flex;
+font-family: "Montserrat", sans-serif;
+font-optical-sizing: auto;
+    margin-left: 50px;
+
+
+}
+.threeeightthree{
+    border-radius: 10px;
+    margin-left: 20px;
+}
+.threeeightfour{
+    margin-left: 10px;
+}
+.threeeightfive{
+    display: flex;
+border: 1px solid #ccc;
+ width: 520px;
+padding: 5px 10px;
+border-radius: 5px;
+background-color: #f8f8f8f8;
+margin-left: 20px;
+}
+.threeeightsix{
+    margin-left: 10px;
+
+}
+.threeeightseven{
+font-weight: 700;
+    
+}
+.threeeighteight{
+font-size: 14px;
+    
+}
+.threeeightnine{
+    font-size: 14px;
+margin-top: -5px;
+}
+.threeeightten{
+    font-size: 14px;
+margin-top: -5px;
+}
+.threeninety{
+font-size: 14px;
+margin-top: -5px;
+}
+.threenineone{
+font-size: 14px;
+
+}
+.threeninetwo{
+ border-radius: 10px;
+    margin-left: 20px;
+}
+.threeninethree{
+    display: flex;
+font-family: "Montserrat", sans-serif;
+font-optical-sizing: auto;
+ margin-left: 50px;
+ margin-top: 10px;
+}
+.threeninefour{
+    display: flex;
+border: 1px solid #ccc;
+ width: 520px;
+padding: 5px 10px;
+border-radius: 5px;
+background-color: #f8f8f8f8;
+margin-left: 20px;
+}
+.threeninefive{
+    margin-left: 10px;
+    
+}
+.threeninesix{
+font-weight: 700;
+    
+}
+.threenineseven{
+font-size: 14px;
+    
+}
+.threenineeight{
+     font-size: 14px;
+margin-top: -5px;
+}
+.threeninenine{
+     font-size: 14px;
+margin-top: -5px;
+}
+.threenineten{
+     font-size: 14px;
+margin-top: -5px;
+}
+.fourhundred{
+ font-size: 14px;
+margin-top: -5px;
+}
+.fourhundredone{
+border-radius: 10px;
+    margin-left: 20px;
+}
+.fourhundredtwo{
+ display: flex;
+border: 1px solid #ccc;
+ width: 520px;
+padding: 5px 10px;
+border-radius: 5px;
+background-color: #f8f8f8f8;
+margin-left: 20px;
+}
+.fourhundredthree{
+    margin-left: 10px;
+
+}
+.fourhundredfour{
+font-weight: 700;
+
+}
+.fourhundredfive{
+font-size: 14px;
+
+}
+.fourhundredsix{
+ font-size: 14px;
+margin-top: -5px;
+}
+.fourhundredseven{
+ font-size: 14px;
+margin-top: -5px;
+}
+.fourhundredeight{
+ font-size: 14px;
+margin-top: -5px;
+}
+.fourhundrednine{
+ border-radius: 10px;
+    margin-left: 18px;
+}
+.fourhundredten{
+font-size: 14px;
+margin-top: -5px;
+}
+.fourhundredeleven{
+ display: flex;
+font-family: "Montserrat", sans-serif;
+font-optical-sizing: auto;
+ margin-left: 50px;
+ margin-top: 10px;
+}
+.fourhundredtwelve{
+ display: flex;
+border: 1px solid #ccc;
+ width: 520px;
+padding: 5px 10px;
+border-radius: 5px;
+background-color: #f8f8f8f8;
+margin-left: 20px;
+}
+.fourhundredthirteen{
+    margin-left: 10px;
+
+}
+.fourhundredfourteen{
+font-weight: 700;
+
+}
+.fourhundredfifteen{
+font-size: 14px;
+
+}
+.fourhundredsixteen{
+font-size: 14px;
+margin-top: -5px;
+}
+.fourhundredseventeen{
+font-size: 14px;
+margin-top: -5px;
+}
+.fourhundredeighteen{
+font-size: 14px;
+margin-top: -5px;
+}
+.fourhundrednineteen{
+border-radius: 10px;
+    margin-left: 22px;
+}
+.fourhundredtwenty{
+display: flex;
+border: 1px solid #ccc;
+ width: 520px;
+padding: 5px 10px;
+border-radius: 5px;
+background-color: #f8f8f8f8;
+margin-left: 20px;
+}
+.fourtwoone{
+    margin-left: 10px;
+
+}
+.fourtwotwo{
+font-weight: 700;
+
+}
+.fourtwothree{
+font-size: 14px;
+    
+}
+.fourtwofour{
+    font-size: 14px;
+margin-top: -5px;
+}
+.fourtwofive{
+    font-size: 14px;
+margin-top: -5px;
+}
+.fourtwosix{
+    font-size: 14px;
+margin-top: -5px;
+}
+.fourtwoseven{
+    border-radius: 10px;
+    margin-left: 39px;
+}
+.fourtwoeight{
+ background-color: #0a1f44;
+  color: #ffffff;
+ font-family: "Montserrat", sans-serif;
+font-optical-sizing: auto;
+padding-top: 10px;
+margin-top: 15px;
+width: 1256px;
+border-radius: 5px;
+}
+.fourtwonine{
+    text-align: center;
+    font-weight: 600;
+
+}
+.fourtwoten{
+display: flex;
+margin-left: 65px;
+}
+.fourthirty{
+ border-right: 1px solid #ccc;
+ padding-right: 15px;
+}
+.fourthree{
+border-right: 1px solid #ccc;
+ padding-right: 15px;
+ margin-left: 40px;
+}
+.fourthreeone{
+    font-weight: 600;
+}
+.fourthreetwo{
+    font-size: 14px;
+    margin-left: -29px;
+    margin-top: -5px;
+}
+.fourthreethree{
+    font-size: 14px;
+    margin-left: -26px;
+    margin-top: -5px;
+    
+}
+.fourthreefour{
+    font-size: 14px;
+    margin-top: -5px;
+    margin-left: 5px;
+    
+}
+.fourthreefive{
+ border-right: 1px solid #ccc;
+ padding-right: 15px;
+ margin-left: 40px;
+}
+.fourthreesix{
+    font-weight: 600;
+    margin-left: -20px;
+    
+}
+.fourthreeseven{
+    font-size: 14px;
+    margin-left: -27px;
+    margin-top: -5px;
+}
+.fourthreeeight{
+     font-size: 14px;
+    margin-left: -24px;
+    margin-top: -5px;
+}
+.fourthreenine{
+    font-size: 14px;
+    margin-top: -5px;
+    margin-left: 10px;
+}
+.fourthreeten{
+    font-weight: 600;
+    margin-left: -20px;
+}
+.fourfourty{
+  font-size: 14px;
+ margin-left: -22px;
+margin-top: -5px;
+}
+.fourfourone{
+font-size: 14px;
+    margin-left: -14px;
+    margin-top: -5px;
+}
+.fourfourtwo{
+    font-size: 14px;
+    margin-top: -5px;
+    margin-left: -13px;
+}
+.fourfourthree{
+    border-right: 1px solid #ccc;
+ padding-right: 15px;
+ margin-left: 40px;
+}
+.fourfourfour{
+    font-weight: 600;
+    margin-left: -20px;
+}
+.fourfourfive{
+    font-size: 14px;
+ margin-left: -24px;
+margin-top: -5px;
+}
+.fourfoursix{
+    font-size: 14px;
+    margin-left: -15px;
+    margin-top: -5px;
+}
+.fourfourseven{
+font-size: 14px;
+    margin-top: -5px;
+    margin-left: 12px;
+}
+.fourfoureight{
+      border-right: 1px solid #ccc;
+ padding-right: 15px;
+ margin-left: 40px;
+}
+.fourfournine{
+     font-weight: 600;
+    margin-left: -10px;
+}
+.fourfourten{
+    font-size: 14px;
+ margin-left: -24px;
+margin-top: -5px;
+}
+.fourfifty{
+font-size: 14px;
+    margin-left: -10px;
+    margin-top: -5px;
+}
+.fourfiveone{
+font-size: 14px;
+    margin-top: -5px;
+    margin-left: 5px
+}
+.fourfivetwo{
+ border-right: 1px solid #ccc;
+ padding-right: 15px;
+ margin-left: 40px;
+}
+.fourfivethree{
+     font-weight: 600;
+    margin-left: -10px;
+}
+.fourfivefour{
+     font-size: 14px;
+ margin-left: -8px;
+margin-top: -5px;
+}
+.fourfivefive{
+    font-size: 14px;
+    margin-left: -10px;
+    margin-top: -5px;
+}
+.fourfivesix{
+    font-size: 14px;
+    margin-top: -5px;
+    margin-left: -3px
+}
+.fourfiveseven{
+ padding-right: 15px;
+ margin-left: 60px;
+}
+.fourfiveeight{
+     font-weight: 600;
+    margin-left: -36px;
+}
+.fourfivenine{
+       font-size: 14px;
+ margin-left: -15px;
+margin-top: -5px;
+}
+.fourfiveten{
+ font-size: 14px;
+    margin-left: -5px;
+    margin-top: -5px;
+}
+.foursixty{
+     font-size: 14px;
+    margin-left: 24px;
+    margin-top: -5px;
+}
+.foursixone{
+display: flex;
+border: 1px solid #ccc;
+ width: 680px;
+padding: 5px 10px;
+border-radius: 5px;
+background-color: #f8f8f8f8;
+margin-top: 20px;
+margin-left: 10px;
+font-family: "Montserrat", sans-serif;
+font-optical-sizing: auto;
+}
+.foursixtwo{
+    margin-left: 10px;
+}
+.foursixthree{
+    font-weight: 600;
+}
+.foursixfour{
+   font-size: 14px; 
+}
+.foursixfive{
+   font-size: 14px; 
+   margin-top: -5px;
+    
+}
+.foursixsix{
+   font-size: 14px; 
+   margin-top: -5px;
+
+    
+}
+.foursixseven{
+   font-size: 14px; 
+   background-color: #0000ff;
+   width: fit-content;
+   padding: 5px 8px ;
+   border-radius: 3px;
+    
+}
+.foursixeight{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.foursixnine{
+    display: flex;
+}
+.foursixten{
+    display: flex;
+border: 1px solid #ccc;
+ width: 550px;
+padding: 5px 10px;
+border-radius: 5px;
+background-color: #f8f8f8f8;
+margin-top: 20px;
+margin-left: 30px;
+font-family: "Montserrat", sans-serif;
+font-optical-sizing: auto;
+}
+.fourseventy{
+margin-left: 30px;
+margin-top: 35px;
+}
+.fourseven{
+
+}
+.foursevenone{
+    font-weight: 600;
+    font-size: 25px;
+    margin-top: -1px;
+}
+.fourseventwo{
+    font-size: 14px;
+    margin-top: -20px;
+    margin-left: 3px;
+}
+.fourseventhree{
+margin-left: 50px;
+margin-top: 35px;
+}
+.foursevenfour{
+     font-weight: 600;
+    font-size: 25px;
+    margin-top: -1px;
+}
+.foursevenfive{
+     font-size: 14px;
+    margin-top: -20px;
+    margin-left: -18px;
+}
+.foursevensix{
+    margin-left: 50px;
+margin-top: 35px;
+}
+.foursevenseven{
+    font-weight: 600;
+    font-size: 25px;
+    margin-top: -1px;
+}
+.fourseveneight{
+         font-size: 14px;
+    margin-top: -20px;
+    margin-left: -25px;
+}
+.foursevennine{
+     margin-left: 50px;
+margin-top: 35px;
+}
+.fourseventen{
+    font-weight: 600;
+    font-size: 25px;
+    margin-top: -1px;
+    margin-left: -5px;
+}
+.foureighty{
+       font-size: 14px;
+    margin-top: -20px;
+    margin-left: -25px;
+}
+.foureightone{
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+font-optical-sizing: auto;
+color: #0000ff;
+font-size: 16px;
+font-weight: 600;
+margin-top: 30px;
+
+}
+.foureighttwo{
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+font-optical-sizing: auto;
+font-size: 18px;
+font-weight: 600;
+margin-top: -5px;
+
+
+}
+.foureightthree{
+ display: flex;
+border: 1px solid #ccc;
+ width: 1220px;
+padding: 5px 10px;
+border-radius: 5px;
+background-color: #f8f8f8f8;
+margin-top: 20px;
+margin-left: 10px;
+font-family: "Montserrat", sans-serif;
+font-optical-sizing: auto;
+}
+.foureightfour{
+    display: flex;
+}
+.foureightfive{
+    margin-left: 20px;
+}
+.foureightsix{
+    font-weight: 600;
+    margin-top: -5px;
+}
+.foureightseven{
+    font-size: 14px;
+    margin-top: -8px;
+}
+.foureighteight{
+    font-size: 14px;
+    margin-top: -8px;
+}
+.foureightnine{
+    font-size: 14px;
+    margin-top: -8px;
+}
+.foureightten{
+    font-size: 18px;
+    margin-left: 50px;
+    background-color: #0000ff;
+    width: fit-content;
+    color: #ffffff;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+.fourninety{
+    display: flex;
+
+}
+.fournineone{
+    margin-left: 20px;
+
+}
+.fourninetwo{
+    font-size: 18px;
+    margin-left: 50px;
+    background-color: #0000ff;
+    width: fit-content;
+    color: #ffffff;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+.fourninethree{
+        font-weight: 600;
+    margin-top: -5px;
+}
+.fourninefour{
+        font-size: 14px;
+    margin-top: -8px;
+}
+.fourninefive{
+     font-size: 14px;
+    margin-top: -8px;
+}
+.fourninesix{
+     font-size: 14px;
+    margin-top: -8px;
+}
+.fournineseven{
+    display: flex;
+    
+}
+.fournineeight{
+    margin-left: 20px;
+}
+.fourninenine{
+     font-size: 18px;
+    margin-left: 50px;
+    background-color: #0000ff;
+    width: fit-content;
+    color: #ffffff;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+.fournineten{
+     font-weight: 600;
+    margin-top: -5px;
+}
+.fivehundred{
+ font-size: 14px;
+    margin-top: -8px;
+}
+.fivehundredone{
+     font-size: 14px;
+    margin-top: -8px;
+}
+.fivehundredtwo{
+ font-size: 14px;
+    margin-top: -8px;
+}
+.fivehundredthree{
+    display: flex;
+ 
+}
+.fivehundredfour{
+    font-size: 18px;
+    margin-left: 30px;
+    background-color: #0000ff;
+    width: fit-content;
+    color: #ffffff;
+    padding: 5px 10px;
+    border-radius: 10px;
+
+}
+.fivehundredfive{
+font-weight: 600;
+margin-top: -5px;
+}
+.fivehundredsix{
+font-size: 14px;
+    margin-top: -8px;
+}
+.fivehundredseven{
+font-size: 14px;
+    margin-top: -8px;
+}
+.fivehundredeight{
+font-size: 14px;
+    margin-top: -8px;
+}
+.fivehundrednine{
+    margin-left: 20px;
+
+}
+.fivehundredten{
+    display: flex;
+
+}
+.fivehundredeleven{
+    margin-left: 20px;
+
+}
+.fivehundredtwelve{
+ font-size: 18px;
+    margin-left: 30px;
+    background-color: #0000ff;
+    width: fit-content;
+    color: #ffffff;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+.fivehundredthirteen{
+font-weight: 600;
+margin-top: -5px;
+}
+.fivehundredfourteen{
+font-size: 14px;
+    margin-top: -8px;
+}
+.fivehundredfifteen{
+font-size: 14px;
+    margin-top: -8px;
+}
+.fivehundredsixteen{
+font-size: 14px;
+    margin-top: -8px;
+}
+.fivehundredseventeen{
+background-color: #0a1f44;
+color: #ffffff;
+border-radius: 5px;
+padding: 5px 10px;
+margin-top: 20px;
+display: flex;
+font-family: "Montserrat", sans-serif;
+font-optical-sizing: auto;
+
+}
+.fivehundredeighteen{
+margin-left: 40px;
+}
+.fivehundrednineteen{
+font-size: 18px;
+font-weight: 600;
+}
+.fivehundredtwenty{
+margin-top: -10px;
+}
+.fivetwoone{
+display: flex;
+margin-left: 50px;
+margin-top: 30px;
+}
+.fivetwotwo{
+    
+}
+.fivetwothree{
+    margin-left: 20px;
+}
+.twohundredfive{
+    display: flex;
+    background-color: #0a1f44;
+    color: #ffffff;
+ font-family: "Montserrat", sans-serif;
+ margin-top: 10px;
+
+}
+.twohundredsix{
+    margin-left: 95px;
+    margin-top: 20px;
+}
+.twohundredseven{
+    font-weight: 600;
+    font-size: 18px;
+}
+.twohundredeight{
+    font-size: 16px;
+    font-weight: 600;
+}
+.twohundrednine{
+    font-size: 16px;
+    font-weight: 600;
+    margin-top: -5px;
+}
+.twohundredten{
+font-size: 16px;
+    font-weight: 600;
+    margin-top: -5px;
+}
+.twohundredeleven{
+    margin-top: 20px;
+    margin-left: 80px;
+}
+.twohundredtwelve{
+     margin-top: 20px;
+    margin-left: 80px;
+}
+.twohundredthirteen{
+     margin-top: 20px;
+    margin-left: 80px;
+}
+.food{
+    margin-bottom: 20px;
+}
+.twohundredfourteen{
+    display: flex;
+}
+.twohundredfifteen{
+    margin-left: 5px;
+    margin-top: -0.5px;
+}
+.twohundredseventeen{
+    display: flex;
+    margin-top: 10px;
+
+}
+.twohundredeighteen{
+     margin-left: 5px;
+    margin-top: -1px;
+}
+.twohundrednineteen{
+     display: flex;
+    margin-top: 10px;
+
+}
+.twotwenty{
+margin-left: 7px;
+    margin-top: -1px;
+}
+.twotwoone{
+ display: flex;
+    margin-top: 10px;
+
+}
+.twotwotwo{
+margin-left: 7px;
+    margin-top: -1px;
+}
+
