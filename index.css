@@ -1243,7 +1243,7 @@ margin-left: 7px;
          display: grid;
          grid-template-columns: repeat(2,1fr);
          grid-template-rows: repeat(2,1fr);
-         width: 465px;
+         width: 450px;
     }
     .onehundrednine{
          display: grid;
@@ -1255,7 +1255,7 @@ margin-left: 7px;
     }
     .onetwoeight{
         margin-left: 5px;
-        width: 460px;
+        width: 450px;
     }
     .onetwofive{
         margin-left: 5px;
@@ -1326,7 +1326,7 @@ margin-left: 7px;
         margin-top: 25px;
     }
     .onetwoseven{
-        width: 480px;
+        width: 470px;
         height: 320px;
     }
     .onesevensix{
