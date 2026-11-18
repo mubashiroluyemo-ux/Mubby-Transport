@@ -6,6 +6,8 @@ body{
      color: #ffffff; 
      height: 20px;
      padding: 10px 15px;
+     width: 100%;
+     overflow: hidden;
 }
 .one{
     display: flex;
