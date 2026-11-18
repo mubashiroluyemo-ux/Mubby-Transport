@@ -1200,7 +1200,7 @@ margin-left: 7px;
 
     }
     .threeone{
-        width: 500px;
+        width: 475px;
         margin-left: 5px;
     }
     .fourfour{
@@ -1243,7 +1243,7 @@ margin-left: 7px;
          display: grid;
          grid-template-columns: repeat(2,1fr);
          grid-template-rows: repeat(2,1fr);
-         width: 500px;
+         width: 475px;
     }
     .onehundrednine{
          display: grid;
@@ -1255,14 +1255,14 @@ margin-left: 7px;
     }
     .onetwoeight{
         margin-left: 5px;
-        width: 480px;
+        width: 460px;
     }
     .onetwofive{
         margin-left: 5px;
     }
     .onefourtwo{
           display: grid;
-          width: 500px;
+          width: 480px;
           margin-left: 5px;
     }
     .onefournine{
@@ -1273,7 +1273,7 @@ margin-left: 7px;
     }
     .onefiveseven{
         margin-left: 5px;
-        width: 500px;
+        width: 460px;
     }
     .onesixthree{
         margin-top: 40px;
@@ -1344,9 +1344,13 @@ margin-left: 7px;
         margin-top: 20px;
         margin-left: 5px;
     }
+    .onethreefour{
+        margin-left: -30px;
+    }
     .oneninenine{
 
     }
+
 
 
 
