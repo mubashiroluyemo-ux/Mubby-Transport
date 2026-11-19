@@ -1378,6 +1378,12 @@ margin-left: 7px;
     marquee{
         display: none;
     }
+    .five{
+        width: 485px;
+    }
+    .seven{
+        margin-left: -70px;
+    }
 
 
 
