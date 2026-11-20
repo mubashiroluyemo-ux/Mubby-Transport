@@ -1,9 +1,11 @@
+body{
+    overflow-x: hidden;
+}
 .one{
     display: flex;
     margin-top: 20px;
-    margin-left: 50px;
-     font-family: "Montserrat", sans-serif;
-   font-optical-sizing: auto;
+    margin-left: 20px;
+    font-family: "Lato", sans-serif;
 
 }
 .two{
@@ -12,6 +14,8 @@
     font-size: 13px;
     font-weight: 600;
     margin-top: 6px;
+    gap: 45px;
+
 }
 .three{
  margin-left: 5px;
@@ -20,8 +24,7 @@
  font-weight: bold;
 }
 .four{
-    margin-left: 90px;
-     background-color: #0000ff; 
+      background-color: #0000ff; 
      padding: 5px 10px; 
      color: #ffffff;
      border-radius: 5px;
@@ -981,5 +984,275 @@ margin-left: 7px;
 .twotwotwo{
 margin-left: 7px;
     margin-top: -1px;
+}
+.genpal{
+   width: fit-content;
+   height: 30px;
+   margin-top: 25px;
+   margin-left: 50px;
+   display: none;
+    cursor: pointer;
+}
+.parent{
+    margin-left: 120px;
+}
+@media(max-width : 760px){
+    .two{
+        display: none;
+    }
+    .two.show{
+        display: grid;
+        flex-direction: column;
+        gap: 5px;
+    }
+    .genpal{
+        display: block;
+        margin-top: 12px;
+    }
+    .threesixfour{
+          background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        width: 485px;
+      margin-top: 100px;
+    }
+    .threesixfive{
+        margin-left: 10px;
+    }
+    .threeeighttwo{
+          display: grid;
+         grid-template-columns: repeat(1,1fr);
+         grid-template-rows: repeat(1,1fr);
+         margin-left: -25px;
+        
+
+    }
+    .threeninethree{
+         display: grid;
+         grid-template-columns: repeat(1,1fr);
+         grid-template-rows: repeat(1,1fr);
+         margin-left: -25px;
+         
+
+    }
+    .fourhundredeleven{
+         display: grid;
+         grid-template-columns: repeat(1,1fr);
+         grid-template-rows: repeat(1,1fr);
+         margin-left: -25px;
+         
+    }
+    .fourtwoten{
+          display: grid;
+         grid-template-columns: repeat(2,1fr);
+         grid-template-rows: repeat(2,1fr);
+    }
+    .fourtwonine{
+        margin-left: -10px;
+    }
+    .fourthree{
+        margin-left: 5px;
+    }
+    .fourfoureight{
+        margin-left: 5px;
+
+    }
+    .fourfiveseven{
+        margin-left: 5px;
+
+    }
+    .fourthreefive{
+        margin-left: 50px;
+    }
+    .fourfourthree{
+        margin-left: 50px;
+
+    }
+    .fourfivetwo{
+        margin-left: 50px;
+
+    }
+    .fourtwoeight{
+    width: 560px;
+    }
+    .foursixnine{
+         display: grid;
+         grid-template-columns: repeat(1,1fr);
+         grid-template-rows: repeat(1,1fr);
+    }
+    .foursixeight{
+        margin-top: 160px;
+        margin-left: -200px;
+    }
+    .foursixone{
+        width: 500px;
+        margin-left: 1px;
+    }
+    .threeeightthree{
+        margin-left: 3px;
+    }
+    .threeninetwo{
+        margin-left: 3px;
+
+    }
+    .fourhundredone{
+        margin-left: 3px;
+
+    }
+    .fourhundrednine{
+        margin-left: 3px;
+
+    }
+    .fourhundrednineteen{
+        margin-left: 3px;
+
+    }
+    .fourtwoseven{
+        margin-left: 3px;
+
+    }
+    .threesevensix{
+        width: 470px;
+    }
+    .threeeightfive{
+        width: 470px;
+        margin-top: 10px;
+
+    }
+    .threeninefour{
+        width: 470px;
+
+    }
+    .fourhundredtwo{
+        width: 470px;
+        margin-top: 10px;
+
+
+    }
+    .fourhundredtwelve{
+        width: 470px;
+
+    }
+    .fourhundredtwenty{
+        width: 470px;
+        margin-top: 10px;
+
+
+    }
+    .foursixten{
+        width: 500px;
+        margin-left: 1px;
+    }
+    .foureightthree{
+          display: grid;
+         grid-template-columns: repeat(2,1fr);
+         grid-template-rows: repeat(2,1fr);
+         width: 500px;
+    }
+    .fournineseven{
+        margin-left: -50px;
+    }
+    .fivehundredten{
+        margin-left: -50px;
+
+    }
+    .fourninety{
+        margin-left: -50px;
+    }
+    .fivehundredthree{
+        margin-left: -50px;
+
+    }
+    .foureightone{
+        margin-left: -200px;
+    }
+    .foureighttwo{
+        margin-left: -200px;
+
+    }
+    .fivetwoone{
+        margin-top: 80px;
+        margin-left: -560px;
+    }
+    .parent{
+        margin-top: 130px;
+        margin-left: -180px;
+    }
+    .fivehundrednineteen{
+margin-left: -30px;
+    }
+    .fivehundredtwenty{
+margin-left: -30px;
+
+    }
+    .fivehundredseventeen{
+        width: 520px;
+    }
+    .twohundredfive{
+         display: grid;
+         grid-template-columns: repeat(2,1fr);
+         grid-template-rows: repeat(2,1fr);
+    }
+    .twohundredtwelve{
+        margin-top: 25px;
+    }
+    .onetwoseven{
+        width: 470px;
+        height: 320px;
+    }
+    .onesevensix{
+        display: grid;
+         grid-template-columns: repeat(2,1fr);
+         grid-template-rows: repeat(2,1fr);
+    }
+    .oneseveneight{
+        margin-left: -20px;
+    }
+    .oneseventy{
+        margin-left: 10px;
+    }
+    .oneeightthree{
+        margin-top: 20px;
+        margin-left: 5px;
+    }
+    .onethreefour{
+        margin-left: -30px;
+    }
+    .oneninenine{
+
+    }
+    .twohundredsix{
+        margin-left: 30px;
+    }
+    .twohundredeleven{
+        margin-left: 40px;
+
+    }
+    .twohundredtwelve{
+        margin-left: 30px;
+
+    }
+    .twohundredthirteen{
+        margin-left: 40px;
+
+    }
+    .onesixteen{
+          display: grid;
+         grid-template-columns: repeat(2,1fr);
+         grid-template-rows: repeat(2,1fr);
+    }
+    .onetwenty{
+        margin-left: 5px;
+    }
+    marquee{
+        display: none;
+    }
+    .five{
+        width: 485px;
+    }
+    .seven{
+        margin-left: -70px;
+    }
+
 }
 
